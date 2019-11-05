@@ -1,0 +1,46 @@
+/*Header and NavBar CSS*/
+.default {
+    color: white;
+    background-color: dodgerblue;
+}
+
+.bar-font {
+    color: dodgerblue;
+    font-size: 1.25rem;
+}
+
+.span-formatting {
+    background-color: red;
+    width: 25%;
+    padding-bottom: 25%;
+}
+
+.easy {
+    background-color: dodgerblue;
+    color: white
+}
+
+.hard {
+    background-color: dodgerblue;
+    color: white
+}
+
+/*Square Boxes CSS*/
+.custom-container {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.square {
+    width: 30%;
+    padding-bottom: 30%;
+    margin: 1.66%;
+    border-radius: 25px;
+    background-color: rgb(0, 0, 200);
+    float: left;
+}
+
+.invisible {
+    background-color: rgba(0, 0, 0, 0);
+}
+
